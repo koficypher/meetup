@@ -1,0 +1,27 @@
+{
+  "name": "@koficypher/meetup",
+  "version": "1.0.0",
+  "description": "A NodeJS SDK for interacting with meetup.com's api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koficypher/meetup.git"
+  },
+  "keywords": [
+    "meetup",
+    "nodejs",
+    "sdk"
+  ],
+  "author": "Kofi Cypher <skcypher6@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koficypher/meetup/issues"
+  },
+  "homepage": "https://github.com/koficypher/meetup#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
