@@ -1,3 +1,6 @@
+/** 
+* @author Kofi Cypher <skcypher6@gmail.com> 
+*/
 'use strict';
 require('dotenv').config()
 
