@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/koficypher/meetup/badge.svg)](https://snyk.io/test/github/koficypher/meetup)
+[![Known Vulnerabilities](https://snyk.io/test/github/koficypher/meetup/badge.svg?targetFile=package.json)](https://snyk.io/test/github/koficypher/meetup?targetFile=package.json)
 
 # Meetup NodeJS SDK
 A NodeJS SDK for [Meetup](https://meetup.com)'s [API](https://www.meetup.com/meetup_api/)
