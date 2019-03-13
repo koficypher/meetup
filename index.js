@@ -1,8 +1,7 @@
 'use strict';
+require('dotenv').config()
 
-const Meetup = require('lib/meetup');
+const Meetup  = require('./lib/Meetup');
 
 
-const sing  = new Meetup();
-
-console.log(sing);
+module.exports = Meetup;
