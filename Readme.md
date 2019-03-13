@@ -23,7 +23,7 @@ authentication.
 
   //initialize meetup class
 
-  const meetups = new Meetup()
+  const meetups = new meetup()
 
   /** result returns a promise so console log it to see it */
   meetups.getUpcoming().then(data => {
